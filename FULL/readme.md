@@ -1,2 +1,3 @@
- to grab image and LIVE2DOnly text file,
-Use F95 to grab remaining files.
+ Use F95 to grab remaining files. to grab image and LIVE2D
+ Only text file,
+
