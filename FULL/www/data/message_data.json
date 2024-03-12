@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Zoe",
+        "face": [
+            "Zoe_right",
+            0
+        ],
+        "messages": [
+            "I'm definitely not trying to get myself killed in town! \\I[1]",
+            "So how are you doing today? \\I[1001]",
+            "\\I[992] \\PIC[sc_self_zoe_1]",
+            "\\I[993] \\PIC[sc_self_zoe_2]"
+        ]
+    },
+    {
+        "name": "Natalie",
+        "face": [
+            "Natalie_right",
+            0
+        ],
+        "messages": [
+            "Good luck at the university, Big Bro! \\I[1001]\\I[1001]\\I[1001]",
+            "So how are you doing today? \\I[84]",
+            "This is for you, Big Bro! \\I[84] \\PIC[sc_self_nat_1]",
+            "I'm so horny, Big Bro! \\I[989] \\PIC[sc_self_nat_2]"
+        ]
+    },
+    {
+        "name": "Sofia",
+        "face": [
+            "Sofia_right",
+            0
+        ],
+        "messages": [
+            "Yo ho, \\N[1]! I got your number from the teacher. Come and see me in the basketball court in Harfort!",
+            "So how are you doing today? \\I[84]",
+            "Help me Lil' Penis! I'm stuck inside a cave at the beach!",
+            "Yo, Little Penis! Down to play tomorrow? \\I[990] \\PIC[sc_self_sof_1]",
+            "Do you think my butt is tiny, Little Penis? \\I[996] \\PIC[sc_self_sof_2]",
+            "Hey Lil'P! Can you lemme know if you see my mom outside late at night?"
+        ]
+    },
+    {
+        "name": "Claire",
+        "face": [
+            "Claire_right",
+            0
+        ],
+        "messages": [
+            "Please stay away from Harfort library.",
+            "Please come to my room tonight."
+        ]
+    },
+    {
+        "name": "Mom",
+        "face": [
+            "Flora_right",
+            0
+        ],
+        "messages": [
+            "HELP ME DEAR!",
+            "HOW DO I TURN OFF CAPITAL LETTERS ON THIS THING?",
+            "wait i think i got it",
+            "oh before i forget can you come and talk to me when you have time?",
+            "no hurry dear \\I[989] \\I[989] \\I[989]",
+            "am i using that emoji correctly?",
+            "i'll stop messaging you now",
+            "i love you \\I[1001]",
+            "how did you afford all that milk dear? thank you so much \\I[1001] \\I[1001] \\I[1001]",
+            "Am I getting fat, Dear? \\I[272] \\PIC[sc_self_flo_1]",
+            "Sweet dreams, Dear... \\I[1001] \\PIC[sc_self_flo_2]"
+        ]
+    },
+    {
+        "name": "Scarlett",
+        "face": [
+            "Scarlett_out_right",
+            0
+        ],
+        "messages": [
+            "\\N[1], if you're looking for a job, visit the job agency in town...",
+            "\\N[1], talk to me in my office if you want help progressing through the Hole.",
+            "\\N[1], hurry to my office! I need to talk to you right now!",
+            "I need to talk to you in private, \\N[1]! Come to my office as soon as you can!",
+            "Stop playing with your dick and come to my office immediately!"
+        ]
+    },
+    {
+        "name": "Nicole",
+        "face": [
+            "Nicole_right",
+            0
+        ],
+        "messages": [
+            "My room!",
+            "So how are you doing today? \\I[84]",
+            "Help!",
+            "Cow! \\PIC[sc_self_nic_1]"
+        ]
+    },
+    {
+        "name": "Violet",
+        "face": [
+            "Violet_right",
+            0
+        ],
+        "messages": [
+            "Hey \\I[1006]! Come to the playground, like... RIGHT NOW!",
+            "Hey \\I[1006]! Playground again! NOW!",
+            "Shit! Shit! Shit! \\I[1006] This is bad! Really bad! You need to hurry to the playground and help me! QUIIIICCCKKK!!!!!!",
+            "Don't go anywhere near the cafe in town!",
+            "Stupid \\I[1006]! Come to the cafe right now! You have to get this stinking pussy out of here!",
+            "Hey \\I[1006]! Me and Sofia will be waiting for you in my bedroom during the evening! DON'T YOU FORGET IT!",
+            "Daddy just left town. Come to my bedroom during the evening!",
+            "Hey \\I[1006]! I'm only sending you this, because I lost a bet! If you show anyone I'll kill you! \\PIC[sc_self_vio_1]",
+            "Hey \\I[1006]! I lost a bet again... Don't show this to anyone else or I'll kill you! \\PIC[sc_self_vio_2]"
+        ]
+    },
+    {
+        "name": "Aiyana",
+        "face": [
+            "Aiyana_right",
+            0
+        ],
+        "messages": [
+            "Don't come to the library.",
+            "Rekam'Ybab is waiting for you... \\PIC[sc_self_aiy_1]",
+            "Rekam'Ybab wants you inside... \\PIC[sc_self_aiy_2]",
+            "Rekam'Ybab wants to go inside of you... \\PIC[sc_self_aiy_3]"
+        ]
+    },
+    {
+        "name": "Gip",
+        "face": [
+            "Gip_right",
+            0
+        ],
+        "messages": [
+            "\\N[1], come to town asap! I need to talk to you.",
+            "Flora's bedroom is rather cozy. I think I'll be sleeping here. What do you think, \\N[1]?"
+        ]
+    },
+    {
+        "name": "Anonymous",
+        "face": [
+            "Anonymous",
+            0
+        ],
+        "messages": [
+            "\\N[1]. I have evidence of you sexually harassing Harfort students underground. You will follow my directions, and do exactly as you're told, or your secret will be exposed. Now head to town and visit the booth next to the fountain. I'll be watching!",
+            "You will come back here later, and you will purchase the services offered from the booth. You will not tell anyone about me, or your secret will be exposed.",
+            "Talk...",
+            "That was satisfactory, however our journey has just begun. I'll get back in touch again soon...",
+            "Back to work! Our next target is your classmate with the red glasses. You need to bring me her phone. I don't care how you acquire it. Drop it off in the garbage container right next to the Cafe in town. Don't get caught! I'll be watching!",
+            "That was satisfactory, and I'll give you a gift for your mandatory cooperation. Take a look at what she left for us on her phone \\PIC[scene_phone_blackmail_claire_1]",
+            "Look what else I found on your classmates phone! \\PIC[scene_phone_blackmail_claire_2]",
+            "Missed me? Of course you have! It's time for your next task. Go to Harfort during the evening, unless you want me to reveal your dirty secrets to everyone dot dot dot",
+            "You read that right dot dot dot I'm spelling out the dots! That's how serious I am dot dot dot",
+            "Your task is no longer required due to unforeseen circumstances. Message you soon!",
+            "Help me Tits! Near the fountain in the City! Inside the wings! Quick!"
+        ]
+    },
+    {
+        "name": "Spermbank",
+        "face": [
+            "Spermbank",
+            0
+        ],
+        "messages": [
+            "Do you have a healthy penis, and are you aged 18-20? If so, we need you! Yes, that's right. You! We need you to become a sperm donor and give the gift of life to someone's poor wife. We will pay you with real money! Come and visit us at the Sperm Bank in the City.",
+            "If you no longer wish to receive messages from us in the future, please visit the Sperm Bank and go fuck yourself."
+        ]
+    },
+    {
+        "name": "Church",
+        "face": [
+            "Church",
+            0
+        ],
+        "messages": [
+            "Our records show that you have Church tax due of $2000. Please make the payment within 24 hours to avoid late fees."
+        ]
+    },
+    {
+        "name": "Farmer",
+        "face": [
+            "Farmer_right",
+            0
+        ],
+        "messages": [
+            "Come ta thay farm ya wonder boy!",
+            "So how are you doing today? \\I[84]"
+        ]
+    },
+    {
+        "name": "Elena",
+        "face": [
+            "Elena",
+            0
+        ],
+        "messages": [
+            "I have to see you, Tits. Come quickly!",
+            "Here's something you can masturbate to until I'm ready... \\PIC[sc_self_ele_1]",
+            "Here's something you can masturbate to until I'm ready... \\PIC[sc_self_ele_1_pen]"
+        ]
+    },
+    {
+        "name": "SexyWear",
+        "face": [
+            "Sexywear",
+            0
+        ],
+        "messages": [
+            "A brand new Coochie maid outfit is now available at the SexyWear store in the City!",
+            "An exclusive Coochie catsuit is now available at the SexyWear store in the City!"
+        ]
+    },
+    {
+        "name": "BalloonGirl69",
+        "face": [
+            "Balloongirl",
+            0
+        ],
+        "messages": [
+            "Hey, you! Are you looking for simulation? If you do, find me at the sex fair in the City! \\I[1001]",
+            "So how are you doing today? \\ I[84]"
+        ]
+    },
+    {
+        "name": "Stranger9",
+        "face": [
+            "Aiyana_right",
+            0
+        ],
+        "messages": [
+            "Don't come to the library.",
+            "So how are you doing today? \\I[84]"
+        ]
+    }
+]
