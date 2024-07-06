@@ -8618,6 +8618,14 @@
                 "indent": 0,
                 "parameters": [1900, 1900, 1]
             }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2093, 2093, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2094, 2094, 1]
+            }, {
                 "code": 236,
                 "indent": 0,
                 "parameters": ["none", 5, 60, false]
@@ -8666,7 +8674,7 @@
             "directionFix": true,
             "image": {
                 "tileId": 0,
-                "characterName": "!SF_Door1_med",
+                "characterName": "",
                 "direction": 2,
                 "pattern": 0,
                 "characterIndex": 7
@@ -8773,6 +8781,14 @@
                 "indent": 0,
                 "parameters": [2067, 2067, 1]
             }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2157, 2157, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2158, 2158, 1]
+            }, {
                 "code": 236,
                 "indent": 0,
                 "parameters": ["none", 5, 60, false]
@@ -8797,7 +8813,7 @@
             },
             "moveSpeed": 3,
             "moveType": 0,
-            "priorityType": 1,
+            "priorityType": 0,
             "stepAnime": false,
             "through": false,
             "trigger": 0,
@@ -11097,6 +11113,14 @@
                 "indent": 0,
                 "parameters": [1900, 1900, 1]
             }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2093, 2093, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2094, 2094, 1]
+            }, {
                 "code": 236,
                 "indent": 0,
                 "parameters": ["none", 5, 60, false]
@@ -11251,6 +11275,14 @@
                 "code": 121,
                 "indent": 0,
                 "parameters": [2067, 2067, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2157, 2157, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2158, 2158, 1]
             }, {
                 "code": 236,
                 "indent": 0,
@@ -13612,18 +13644,6 @@
             "list": [{
                 "code": 108,
                 "indent": 0,
-                "parameters": ["<eventIndicator: true>"]
-            }, {
-                "code": 408,
-                "indent": 0,
-                "parameters": ["<eventIndicatorIcon: 93>"]
-            }, {
-                "code": 408,
-                "indent": 0,
-                "parameters": ["<eventIndicatorTweenPosY: true -58 -64 1 linear oscillate> "]
-            }, {
-                "code": 108,
-                "indent": 0,
                 "parameters": ["hover_cursor talk.png;"]
             }, {
                 "code": 108,
@@ -13637,6 +13657,18 @@
                 "code": 408,
                 "indent": 0,
                 "parameters": ["</mouse_label>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: true>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorIcon: 93>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorTweenPosY: true -58 -64 1 linear oscillate> "]
             }, {
                 "code": 108,
                 "indent": 0,
@@ -14242,6 +14274,18 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": ["<shadow>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: true>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorIcon: 93>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorTweenPosY: true -58 -64 1 linear oscillate> "]
             }, {
                 "code": 108,
                 "indent": 0,
@@ -16898,6 +16942,10 @@
                 "indent": 0,
                 "parameters": ["<shadow>"]
             }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: false>"]
+            }, {
                 "code": 0,
                 "indent": 0,
                 "parameters": []
@@ -16979,6 +17027,10 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": ["</page condition>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: false>"]
             }, {
                 "code": 0,
                 "indent": 0,
@@ -22129,398 +22181,6 @@
                 "indent": 0,
                 "parameters": ["No one wants to be defeated!"]
             }, {
-                "code": 111,
-                "indent": 0,
-                "parameters": [0, 1260, 0]
-            }, {
-                "code": 356,
-                "indent": 1,
-                "parameters": ["imgcache picture 10"]
-            }, {
-                "code": 221,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 230,
-                "indent": 1,
-                "parameters": [60]
-            }, {
-                "code": 231,
-                "indent": 1,
-                "parameters": [1, "scene_flora_harass_b_1_main", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 231,
-                "indent": 1,
-                "parameters": [2, "scene_flora_harass_b_2_up", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 230,
-                "indent": 1,
-                "parameters": [60]
-            }, {
-                "code": 222,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 250,
-                "indent": 1,
-                "parameters": [{
-                    "name": "boing",
-                    "volume": 100,
-                    "pitch": 100,
-                    "pan": 0
-                }]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["", 0, 2, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": [""]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Protagonist_angry", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["What do you think you're doing?!"]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["face_sil_male_1", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\FPR\\nr<Stranger>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["First we lower it!"]
-            }, {
-                "code": 231,
-                "indent": 1,
-                "parameters": [2, "scene_flora_harass_b_2_down", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 250,
-                "indent": 1,
-                "parameters": [{
-                    "name": "Wind4",
-                    "volume": 90,
-                    "pitch": 100,
-                    "pan": 0
-                }]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["", 0, 2, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": [""]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Protagonist_angry", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["Stop it!"]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["face_sil_male_1", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\FPR\\nr<Stranger>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["And then we beat it!"]
-            }, {
-                "code": 225,
-                "indent": 1,
-                "parameters": [5, 5, 60, false]
-            }, {
-                "code": 231,
-                "indent": 1,
-                "parameters": [3, "scene_flora_harass_b_3", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 250,
-                "indent": 1,
-                "parameters": [{
-                    "name": "Slap",
-                    "volume": 90,
-                    "pitch": 100,
-                    "pan": 0
-                }]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["", 0, 2, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": [""]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Protagonist_angry", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["What is your problem?!"]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["face_sil_male_1", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\FPR\\nr<Stranger>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["Just beat it!"]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [1]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [2]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [3]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [4]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [5]
-            }, {
-                "code": 235,
-                "indent": 1,
-                "parameters": [6]
-            }, {
-                "code": 356,
-                "indent": 1,
-                "parameters": ["imgcache pictrelease"]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Flora_WS1_blush", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\WS[1]\\FPR\\nr<Flora>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\C[23]I try not to get close to him, Dear."]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Flora_WS1_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\WS[1]\\FPR\\nr<Flora>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\C[23]I think he is r\\..\\..\\.. he has mental problems..."]
-            }, {
-                "code": 101,
-                "indent": 1,
-                "parameters": ["Protagonist_WS1_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\WS[1]\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 1,
-                "parameters": ["\\C[23]Obviously."]
-            }, {
-                "code": 121,
-                "indent": 1,
-                "parameters": [1264, 1264, 0]
-            }, {
-                "code": 111,
-                "indent": 1,
-                "parameters": [0, 1263, 0]
-            }, {
-                "code": 121,
-                "indent": 2,
-                "parameters": [1265, 1265, 0]
-            }, {
-                "code": 0,
-                "indent": 2,
-                "parameters": []
-            }, {
-                "code": 412,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 0,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 411,
-                "indent": 0,
-                "parameters": []
-            }, {
-                "code": 111,
-                "indent": 1,
-                "parameters": [0, 460, 0]
-            }, {
-                "code": 356,
-                "indent": 2,
-                "parameters": ["imgcache picture 10"]
-            }, {
-                "code": 221,
-                "indent": 2,
-                "parameters": []
-            }, {
-                "code": 230,
-                "indent": 2,
-                "parameters": [60]
-            }, {
-                "code": 231,
-                "indent": 2,
-                "parameters": [1, "scene_natalie_hypno_harass_1_bg", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 231,
-                "indent": 2,
-                "parameters": [2, "scene_natalie_hypno_harass_2_face1", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 231,
-                "indent": 2,
-                "parameters": [5, "scene_natalie_hypno_harass_5_shirt", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 231,
-                "indent": 2,
-                "parameters": [6, "scene_natalie_hypno_harass_6_locket", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 230,
-                "indent": 2,
-                "parameters": [60]
-            }, {
-                "code": 222,
-                "indent": 2,
-                "parameters": []
-            }, {
-                "code": 250,
-                "indent": 2,
-                "parameters": [{
-                    "name": "boing",
-                    "volume": 100,
-                    "pitch": 100,
-                    "pan": 0
-                }]
-            }, {
-                "code": 101,
-                "indent": 2,
-                "parameters": ["", 0, 2, 2]
-            }, {
-                "code": 401,
-                "indent": 2,
-                "parameters": [""]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [2]
-            }, {
-                "code": 231,
-                "indent": 2,
-                "parameters": [2, "scene_natalie_hypno_harass_2_face2", 0, 0, 0, 0, 100, 100, 255, 0]
-            }, {
-                "code": 101,
-                "indent": 2,
-                "parameters": ["Protagonist_angry", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 2,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 2,
-                "parameters": ["What do you think you're doing?!"]
-            }, {
-                "code": 101,
-                "indent": 2,
-                "parameters": ["face_sil_male_1", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 2,
-                "parameters": ["\\FPR\\nr<Stranger>"]
-            }, {
-                "code": 401,
-                "indent": 2,
-                "parameters": ["Just beat it!"]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [1]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [2]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [3]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [4]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [5]
-            }, {
-                "code": 235,
-                "indent": 2,
-                "parameters": [6]
-            }, {
-                "code": 356,
-                "indent": 2,
-                "parameters": ["imgcache pictrelease"]
-            }, {
-                "code": 0,
-                "indent": 2,
-                "parameters": []
-            }, {
-                "code": 412,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 0,
-                "indent": 1,
-                "parameters": []
-            }, {
-                "code": 412,
-                "indent": 0,
-                "parameters": []
-            }, {
                 "code": 0,
                 "indent": 0,
                 "parameters": []
@@ -24685,7 +24345,7 @@
             }, {
                 "code": 111,
                 "indent": 0,
-                "parameters": [0, 1260, 0]
+                "parameters": [0, 8, 0]
             }, {
                 "code": 356,
                 "indent": 1,
@@ -24695,13 +24355,75 @@
                 "indent": 1,
                 "parameters": []
             }, {
-                "code": 411,
+                "code": 412,
                 "indent": 0,
                 "parameters": []
             }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["</page condition>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: false>"]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "!$npc_random_male_1_reverse",
+                "direction": 4,
+                "pattern": 1,
+                "characterIndex": 0
+            },
+            "list": [{
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<page condition>"]
+            }, {
+                "code": 111,
+                "indent": 0,
+                "parameters": [12, "$gameTime.inBetweenHour(6,23)"]
+            }, {
                 "code": 111,
                 "indent": 1,
-                "parameters": [0, 8, 0]
+                "parameters": [0, 1260, 0]
             }, {
                 "code": 356,
                 "indent": 2,
@@ -24751,13 +24473,537 @@
                 "indent": 0,
                 "parameters": ["</page condition>"]
             }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["hover_cursor talk.png;"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<mouse_label>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["Stranger"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["</mouse_label>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<eventIndicator: true>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorIcon: 93>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["<eventIndicatorTweenPosY: true -58 -64 1 linear oscillate> "]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<EventSize: 0 0 1 0 0 0 0 0 true>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<shadow>"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Beat it!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Why?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Just beat it!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Whatever..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["No one wants to be defeated!"]
+            }, {
+                "code": 111,
+                "indent": 0,
+                "parameters": [0, 1260, 0]
+            }, {
+                "code": 356,
+                "indent": 1,
+                "parameters": ["imgcache picture 10"]
+            }, {
+                "code": 221,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 230,
+                "indent": 1,
+                "parameters": [60]
+            }, {
+                "code": 231,
+                "indent": 1,
+                "parameters": [1, "scene_flora_harass_b_1_main", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 231,
+                "indent": 1,
+                "parameters": [2, "scene_flora_harass_b_2_up", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 230,
+                "indent": 1,
+                "parameters": [60]
+            }, {
+                "code": 222,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 250,
+                "indent": 1,
+                "parameters": [{
+                    "name": "boing",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["", 0, 2, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": [""]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["What do you think you're doing?!"]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["First we lower it!"]
+            }, {
+                "code": 231,
+                "indent": 1,
+                "parameters": [2, "scene_flora_harass_b_2_down", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 250,
+                "indent": 1,
+                "parameters": [{
+                    "name": "Wind4",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["", 0, 2, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": [""]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["Stop it!"]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["And then we beat it!"]
+            }, {
+                "code": 225,
+                "indent": 1,
+                "parameters": [5, 5, 60, false]
+            }, {
+                "code": 231,
+                "indent": 1,
+                "parameters": [3, "scene_flora_harass_b_3", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 250,
+                "indent": 1,
+                "parameters": [{
+                    "name": "Slap",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["", 0, 2, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": [""]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["What is your problem?!"]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["Just beat it!"]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [1]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [2]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [3]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [4]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [5]
+            }, {
+                "code": 235,
+                "indent": 1,
+                "parameters": [6]
+            }, {
+                "code": 356,
+                "indent": 1,
+                "parameters": ["imgcache pictrelease"]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Flora_WS1_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\WS[1]\\FPR\\nr<Flora>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\C[23]I try not to get close to him, Dear."]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Flora_WS1_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\WS[1]\\FPR\\nr<Flora>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\C[23]I think he is r\\..\\..\\.. he has mental problems..."]
+            }, {
+                "code": 101,
+                "indent": 1,
+                "parameters": ["Protagonist_WS1_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 1,
+                "parameters": ["\\C[23]Obviously."]
+            }, {
+                "code": 121,
+                "indent": 1,
+                "parameters": [1264, 1264, 0]
+            }, {
+                "code": 111,
+                "indent": 1,
+                "parameters": [0, 1263, 0]
+            }, {
+                "code": 121,
+                "indent": 2,
+                "parameters": [1265, 1265, 0]
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 1,
+                "parameters": [0, 460, 0]
+            }, {
+                "code": 356,
+                "indent": 2,
+                "parameters": ["imgcache picture 10"]
+            }, {
+                "code": 221,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 230,
+                "indent": 2,
+                "parameters": [60]
+            }, {
+                "code": 231,
+                "indent": 2,
+                "parameters": [1, "scene_natalie_hypno_harass_1_bg", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 231,
+                "indent": 2,
+                "parameters": [2, "scene_natalie_hypno_harass_2_face1", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 231,
+                "indent": 2,
+                "parameters": [5, "scene_natalie_hypno_harass_5_shirt", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 231,
+                "indent": 2,
+                "parameters": [6, "scene_natalie_hypno_harass_6_locket", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 230,
+                "indent": 2,
+                "parameters": [60]
+            }, {
+                "code": 222,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 250,
+                "indent": 2,
+                "parameters": [{
+                    "name": "boing",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["", 0, 2, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": [""]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [2]
+            }, {
+                "code": 231,
+                "indent": 2,
+                "parameters": [2, "scene_natalie_hypno_harass_2_face2", 0, 0, 0, 0, 100, 100, 255, 0]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["What do you think you're doing?!"]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["face_sil_male_1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["\\FPR\\nr<Stranger>"]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["Just beat it!"]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [1]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [2]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [3]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [4]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [5]
+            }, {
+                "code": 235,
+                "indent": 2,
+                "parameters": [6]
+            }, {
+                "code": 356,
+                "indent": 2,
+                "parameters": ["imgcache pictrelease"]
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            }, {
                 "code": 0,
                 "indent": 0,
                 "parameters": []
             }],
-            "moveFrequency": 3,
+            "moveFrequency": 5,
             "moveRoute": {
                 "list": [{
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 3,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
+                    "code": 2,
+                    "indent": null
+                }, {
                     "code": 0,
                     "parameters": []
                 }],
@@ -24766,8 +25012,8 @@
                 "wait": false
             },
             "moveSpeed": 3,
-            "moveType": 0,
-            "priorityType": 0,
+            "moveType": 3,
+            "priorityType": 1,
             "stepAnime": false,
             "through": false,
             "trigger": 0,

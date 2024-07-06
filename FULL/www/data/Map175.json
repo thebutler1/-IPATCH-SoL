@@ -826,7 +826,7 @@
                 "variableValid": false,
                 "variableValue": 0
             },
-            "directionFix": false,
+            "directionFix": true,
             "image": {
                 "tileId": 0,
                 "characterName": "$sdungeon_machine",
@@ -8241,5 +8241,414 @@
         }],
         "x": 13,
         "y": 25
+    }, {
+        "id": 51,
+        "name": "EV051",
+        "note": "",
+        "pages": [{
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 111,
+                "indent": 0,
+                "parameters": [1, 4, 0, 100, 3]
+            }, {
+                "code": 122,
+                "indent": 1,
+                "parameters": [634, 634, 0, 0, 100]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 122,
+                "indent": 1,
+                "parameters": [634, 634, 0, 1, 3]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 122,
+                "indent": 0,
+                "parameters": [634, 634, 4, 0, 10]
+            }, {
+                "code": 111,
+                "indent": 0,
+                "parameters": [1, 634, 0, 0, 0]
+            }, {
+                "code": 356,
+                "indent": 1,
+                "parameters": ["Crafting max 3"]
+            }, {
+                "code": 122,
+                "indent": 1,
+                "parameters": [635, 635, 0, 0, 3]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 1,
+                "parameters": [1, 634, 0, 1, 4]
+            }, {
+                "code": 356,
+                "indent": 2,
+                "parameters": ["Crafting max 4"]
+            }, {
+                "code": 122,
+                "indent": 2,
+                "parameters": [635, 635, 0, 0, 4]
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 2,
+                "parameters": [1, 634, 0, 2, 4]
+            }, {
+                "code": 356,
+                "indent": 3,
+                "parameters": ["6"]
+            }, {
+                "code": 122,
+                "indent": 3,
+                "parameters": [635, 635, 0, 0, 6]
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 3,
+                "parameters": [1, 634, 0, 3, 4]
+            }, {
+                "code": 356,
+                "indent": 4,
+                "parameters": ["Crafting max 8"]
+            }, {
+                "code": 122,
+                "indent": 4,
+                "parameters": [635, 635, 0, 0, 8]
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 4,
+                "parameters": [1, 634, 0, 4, 4]
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Crafting max 10"]
+            }, {
+                "code": 122,
+                "indent": 5,
+                "parameters": [635, 635, 0, 0, 10]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 5,
+                "parameters": [1, 634, 0, 5, 4]
+            }, {
+                "code": 356,
+                "indent": 6,
+                "parameters": ["Crafting max 12"]
+            }, {
+                "code": 122,
+                "indent": 6,
+                "parameters": [635, 635, 0, 0, 12]
+            }, {
+                "code": 0,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 6,
+                "parameters": [1, 634, 0, 6, 4]
+            }, {
+                "code": 356,
+                "indent": 7,
+                "parameters": ["Crafting max 15"]
+            }, {
+                "code": 122,
+                "indent": 7,
+                "parameters": [635, 635, 0, 0, 15]
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 7,
+                "parameters": [1, 634, 0, 7, 4]
+            }, {
+                "code": 356,
+                "indent": 8,
+                "parameters": ["Crafting max 18"]
+            }, {
+                "code": 122,
+                "indent": 8,
+                "parameters": [635, 635, 0, 0, 18]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 8,
+                "parameters": [1, 634, 0, 8, 4]
+            }, {
+                "code": 356,
+                "indent": 9,
+                "parameters": ["Crafting max 22"]
+            }, {
+                "code": 122,
+                "indent": 9,
+                "parameters": [635, 635, 0, 0, 22]
+            }, {
+                "code": 0,
+                "indent": 9,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 9,
+                "parameters": [1, 634, 0, 9, 4]
+            }, {
+                "code": 356,
+                "indent": 10,
+                "parameters": ["Crafting max 24"]
+            }, {
+                "code": 122,
+                "indent": 10,
+                "parameters": [635, 635, 0, 0, 24]
+            }, {
+                "code": 0,
+                "indent": 10,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 9,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 10,
+                "parameters": [1, 634, 0, 10, 4]
+            }, {
+                "code": 356,
+                "indent": 11,
+                "parameters": ["Crafting max 28"]
+            }, {
+                "code": 122,
+                "indent": 11,
+                "parameters": [635, 635, 0, 0, 28]
+            }, {
+                "code": 0,
+                "indent": 11,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 10,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 11,
+                "parameters": ["Crafting max 32"]
+            }, {
+                "code": 122,
+                "indent": 11,
+                "parameters": [635, 635, 0, 0, 32]
+            }, {
+                "code": 0,
+                "indent": 11,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 10,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 10,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 9,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 9,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Crafting max 14"]
+            }, {
+                "code": 214,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        }],
+        "x": 24,
+        "y": 3
     }]
 }

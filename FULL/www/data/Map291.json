@@ -115,6 +115,84 @@
             "through": false,
             "trigger": 0,
             "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "!SF_Door1_med",
+                "direction": 2,
+                "pattern": 0,
+                "characterIndex": 3
+            },
+            "list": [{
+                "code": 108,
+                "indent": 0,
+                "parameters": ["hover_cursor transfer.png;"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<mouse_label>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["Exit"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["</mouse_label>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<EventSize: 0 0 1 0 0 0 0 0 true>"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]I should look around, before I leave..."]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
         }],
         "x": 13,
         "y": 11
@@ -4156,6 +4234,52 @@
             "through": false,
             "trigger": 0,
             "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
         }],
         "x": 13,
         "y": 6
@@ -4233,6 +4357,56 @@
             "image": {
                 "tileId": 0,
                 "characterName": "_Nicole_casual",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 0
+            },
+            "list": [{
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<shadow>"]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": true,
+            "trigger": 0,
+            "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 2283,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "_Dunia_trad_bbat",
                 "direction": 8,
                 "pattern": 1,
                 "characterIndex": 0
@@ -4799,6 +4973,84 @@
             "through": false,
             "trigger": 0,
             "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 108,
+                "indent": 0,
+                "parameters": ["hover_cursor inspect.png;"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<mouse_label>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["Closet"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["</mouse_label>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<EventSize: 0 0 1 0 0 0 0 0>"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Nothing that stands out in there..."]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
         }],
         "x": 11,
         "y": 6
@@ -5029,6 +5281,52 @@
             "priorityType": 1,
             "stepAnime": false,
             "through": true,
+            "trigger": 0,
+            "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
             "trigger": 0,
             "walkAnime": true
         }],
@@ -5619,5 +5917,1720 @@
         }],
         "x": 19,
         "y": 10
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null]
+    }, {
+        "id": 11,
+        "name": "EV011",
+        "note": "",
+        "pages": [{
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 205,
+                "indent": 0,
+                "parameters": [-1, {
+                    "list": [{
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 15,
+                        "parameters": [30],
+                        "indent": null
+                    }, {
+                        "code": 17,
+                        "indent": null
+                    }, {
+                        "code": 15,
+                        "parameters": [30],
+                        "indent": null
+                    }, {
+                        "code": 16,
+                        "indent": null
+                    }, {
+                        "code": 15,
+                        "parameters": [30],
+                        "indent": null
+                    }, {
+                        "code": 18,
+                        "indent": null
+                    }, {
+                        "code": 15,
+                        "parameters": [30],
+                        "indent": null
+                    }, {
+                        "code": 19,
+                        "indent": null
+                    }, {
+                        "code": 0
+                    }],
+                    "repeat": false,
+                    "skippable": false,
+                    "wait": true
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 15,
+                    "parameters": [30],
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 17,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 15,
+                    "parameters": [30],
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 16,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 15,
+                    "parameters": [30],
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 18,
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 15,
+                    "parameters": [30],
+                    "indent": null
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 19,
+                    "indent": null
+                }]
+            }, {
+                "code": 213,
+                "indent": 0,
+                "parameters": [-1, 2, true]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]I guess she's out..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_smile", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Let's see if she's hiding anything in her room."]
+            }, {
+                "code": 123,
+                "indent": 0,
+                "parameters": ["A", 0]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        }, {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": true,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [{
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }],
+        "x": 21,
+        "y": 6
+    }, {
+        "id": 12,
+        "name": "EV012",
+        "note": "",
+        "pages": [{
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1709,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": true,
+            "image": {
+                "tileId": 0,
+                "characterName": "!$dunia_room_cball",
+                "direction": 2,
+                "pattern": 0,
+                "characterIndex": 0
+            },
+            "list": [{
+                "code": 108,
+                "indent": 0,
+                "parameters": ["hover_cursor inspect.png;"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["<mouse_label>"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["Nightstand"]
+            }, {
+                "code": 408,
+                "indent": 0,
+                "parameters": ["</mouse_label>"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["move_activate! 13, 6, 6"]
+            }, {
+                "code": 213,
+                "indent": 0,
+                "parameters": [-1, 2, true]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]What's this?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Isn't that...?"]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "Close1",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 205,
+                "indent": 0,
+                "parameters": [-1, {
+                    "list": [{
+                        "code": 16,
+                        "indent": null
+                    }, {
+                        "code": 0
+                    }],
+                    "repeat": false,
+                    "skippable": false,
+                    "wait": true
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 16,
+                    "indent": null
+                }]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2283, 2283, 0]
+            }, {
+                "code": 225,
+                "indent": 0,
+                "parameters": [5, 5, 60, false]
+            }, {
+                "code": 213,
+                "indent": 0,
+                "parameters": [-1, 1, true]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Dunia!"]
+            }, {
+                "code": 205,
+                "indent": 0,
+                "parameters": [6, {
+                    "list": [{
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 0
+                    }],
+                    "repeat": false,
+                    "skippable": false,
+                    "wait": true
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Umm... I was just... looking for... you!"]
+            }, {
+                "code": 205,
+                "indent": 0,
+                "parameters": [6, {
+                    "list": [{
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 0
+                    }],
+                    "repeat": false,
+                    "skippable": false,
+                    "wait": true
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["W-What are you holding?"]
+            }, {
+                "code": 205,
+                "indent": 0,
+                "parameters": [6, {
+                    "list": [{
+                        "code": 4,
+                        "indent": null
+                    }, {
+                        "code": 0
+                    }],
+                    "repeat": false,
+                    "skippable": false,
+                    "wait": true
+                }]
+            }, {
+                "code": 505,
+                "indent": 0,
+                "parameters": [{
+                    "code": 4,
+                    "indent": null
+                }]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [21, 21, 1]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [33, 33, 1]
+            }, {
+                "code": 231,
+                "indent": 0,
+                "parameters": [1, "sc_du_basebat", 0, 0, 0, -100, 60, 60, 255, 0]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "Damage3",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 232,
+                "indent": 0,
+                "parameters": [1, 0, 0, 0, -300, -150, 75, 75, 255, 0, 30, true]
+            }, {
+                "code": 225,
+                "indent": 0,
+                "parameters": [8, 6, 60, false]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [30]
+            }, {
+                "code": 235,
+                "indent": 0,
+                "parameters": [1]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "hightone",
+                    "volume": 75,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2283, 2283, 1]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [200]
+            }, {
+                "code": 251,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 245,
+                "indent": 0,
+                "parameters": [{
+                    "name": "heartbeat1",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Uugh!"]
+            }, {
+                "code": 246,
+                "indent": 0,
+                "parameters": [1]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Why did she hit me...?"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D load dunia_3some dunia_3some"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [10]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D pos dunia_3some 0 0"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D scale dunia_3some 1.0"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [30]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some idle_start"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D show dunia_3some"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D expression dunia_3some neutral"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D motion dunia_3some reveal"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [120]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] CONTINUE"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] CONTINUE"]
+            }, {
+                "code": 356,
+                "indent": 1,
+                "parameters": ["Live2D motion dunia_3some revealed"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_smile", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["What was that all about?"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D motion dunia_3some zoom"]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "pianoflutestring",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [400]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D motion dunia_3some zoomed"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_smile", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["I guess they do things differently where you come from..."]
+            }, {
+                "code": 241,
+                "indent": 0,
+                "parameters": [{
+                    "name": "sexy1",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some intercourse1"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D expression dunia_3some aroused"]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] CONTINUE"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] CONTINUE"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["You could've just *hng* asked, you know..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Ahh... You're so tight..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Is this your first time?"]
+            }, {
+                "code": 108,
+                "indent": 0,
+                "parameters": ["dunia stops - angry"]
+            }, {
+                "code": 242,
+                "indent": 0,
+                "parameters": [1]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some idle_anon1"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D expression dunia_3some angry"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Why did you stop...?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Don't you want me to finish...?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Am I talking too much?"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D motion dunia_3some zoomin"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [400]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D motion dunia_3some zoomedin"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["face_sil_anon", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<???>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Kukuku..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["What's so funny?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["face_sil_anon", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<???>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Kekeke..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["W-Wait... That's not you..."]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some idle_anon2"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Where did this sexy ass come from...?"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D expression dunia_3some smile"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some zoom"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [200]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some idle_anon3"]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "pianohit",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] CONTINUE"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] CONTINUE"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["It's you!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["So it wasn't Dunia wearing that suit?!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["W-Who are you?!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Say something!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Nice pussy by the way..."]
+            }, {
+                "code": 245,
+                "indent": 0,
+                "parameters": [{
+                    "name": "sexytime",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some intercourse2"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D expression dunia_3some ahegao"]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] CONTINUE"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] CONTINUE"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Ahh!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Not so fast!"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some intercourse3"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\fi*slurp*\\fr"]
+            }, {
+                "code": 246,
+                "indent": 0,
+                "parameters": [1]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] CUM"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] CUM"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "squish",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some cum1"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [120]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some cum2"]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D loopmotion dunia_3some came"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Ahh!"]
+            }, {
+                "code": 246,
+                "indent": 0,
+                "parameters": [1]
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = false;"]
+            }, {
+                "code": 102,
+                "indent": 0,
+                "parameters": [
+                    ["\\i[1599] END"], -1, -1, 2, 1
+                ]
+            }, {
+                "code": 402,
+                "indent": 0,
+                "parameters": [0, "\\i[1599] END"]
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 355,
+                "indent": 0,
+                "parameters": ["$gameSystem.vnChoices = true;"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["", 0, 2, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\^"]
+            }, {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Live2D destroy dunia_3some"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Dunia", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<Dunia>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\Shake Ravi!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["Wait... S-Stop trying to put it back inside!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Dunia", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\FPR\\nr<Dunia>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\Shake Raaaaavi!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]I think she wanted me to release inside of her..."]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2284, 2284, 0]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [2381, 2381, 0]
+            }, {
+                "code": 121,
+                "indent": 0,
+                "parameters": [1709, 1709, 1]
+            }, {
+                "code": 111,
+                "indent": 0,
+                "parameters": [12, "$gameTime.inBetweenHour(0,11)"]
+            }, {
+                "code": 356,
+                "indent": 1,
+                "parameters": ["GameTime set 0 0 12 x x x x"]
+            }, {
+                "code": 230,
+                "indent": 1,
+                "parameters": [60]
+            }, {
+                "code": 111,
+                "indent": 1,
+                "parameters": [1, 11, 0, 4, 0]
+            }, {
+                "code": 322,
+                "indent": 2,
+                "parameters": [1, "_Protagonist_school", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 2,
+                "parameters": [1, 11, 0, 0, 0]
+            }, {
+                "code": 322,
+                "indent": 3,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 322,
+                "indent": 3,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 201,
+                "indent": 1,
+                "parameters": [0, 65, 16, 7, 6, 0]
+            }, {
+                "code": 230,
+                "indent": 1,
+                "parameters": [60]
+            }, {
+                "code": 222,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 1,
+                "parameters": [12, "$gameTime.inBetweenHour(12,17)"]
+            }, {
+                "code": 356,
+                "indent": 2,
+                "parameters": ["GameTime set 0 0 18 x x x x"]
+            }, {
+                "code": 230,
+                "indent": 2,
+                "parameters": [60]
+            }, {
+                "code": 111,
+                "indent": 2,
+                "parameters": [1, 11, 0, 4, 0]
+            }, {
+                "code": 322,
+                "indent": 3,
+                "parameters": [1, "_Protagonist_school", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 3,
+                "parameters": [1, 11, 0, 0, 0]
+            }, {
+                "code": 322,
+                "indent": 4,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 322,
+                "indent": 4,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 201,
+                "indent": 2,
+                "parameters": [0, 65, 16, 7, 6, 0]
+            }, {
+                "code": 230,
+                "indent": 2,
+                "parameters": [60]
+            }, {
+                "code": 222,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 2,
+                "parameters": [12, "$gameTime.inBetweenHour(18,23)"]
+            }, {
+                "code": 356,
+                "indent": 3,
+                "parameters": ["GameTime set 0 0 23 x x x x"]
+            }, {
+                "code": 356,
+                "indent": 3,
+                "parameters": ["GameTime add hour 1"]
+            }, {
+                "code": 230,
+                "indent": 3,
+                "parameters": [60]
+            }, {
+                "code": 111,
+                "indent": 3,
+                "parameters": [1, 11, 0, 4, 0]
+            }, {
+                "code": 322,
+                "indent": 4,
+                "parameters": [1, "_Protagonist_school", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 4,
+                "parameters": [1, 11, 0, 0, 0]
+            }, {
+                "code": 322,
+                "indent": 5,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 322,
+                "indent": 5,
+                "parameters": [1, "_Protagonist_casual", 0, "Protagonist", 0, ""]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 201,
+                "indent": 3,
+                "parameters": [0, 65, 16, 7, 6, 0]
+            }, {
+                "code": 242,
+                "indent": 3,
+                "parameters": [1]
+            }, {
+                "code": 222,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            }, {
+                "code": 213,
+                "indent": 0,
+                "parameters": [-1, 2, true]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Phew... I had to run back home..."]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_blush", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Heh... Dunia is a wild one..."]
+            }, {
+                "code": 230,
+                "indent": 0,
+                "parameters": [60]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]But... Who was the beauty wearing the suit?"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]I initially thought it was Dunia, but that's not possible..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]Something is not right here..."]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]I should try to talk to Dunia after she calms down!"]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[1]\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\C[23]She appears to know her!"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Quest Complete 98"]
+            }, {
+                "code": 356,
+                "indent": 0,
+                "parameters": ["Quest Add 114"]
+            }, {
+                "code": 250,
+                "indent": 0,
+                "parameters": [{
+                    "name": "Sound1",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }]
+            }, {
+                "code": 101,
+                "indent": 0,
+                "parameters": ["", 0, 1, 1]
+            }, {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\WS[2] \\I[87] New Quest: \\c[14]Anonymous #5\\c[0]"]
+            }, {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [{
+                    "code": 0,
+                    "parameters": []
+                }],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }],
+        "x": 14,
+        "y": 6
+    }, null, null, null, null, null, null, null, null, null, null, null]
 }

@@ -311,7 +311,7 @@
             }, {
                 "code": 111,
                 "indent": 0,
-                "parameters": [0, 2020, 0]
+                "parameters": [0, 2216, 0]
             }, {
                 "code": 102,
                 "indent": 1,
@@ -343,6 +343,10 @@
                 "indent": 2,
                 "parameters": [0, 132, 0, 0]
             }, {
+                "code": 605,
+                "indent": 2,
+                "parameters": [0, 133, 0, 0]
+            }, {
                 "code": 0,
                 "indent": 2,
                 "parameters": []
@@ -369,7 +373,7 @@
             }, {
                 "code": 111,
                 "indent": 1,
-                "parameters": [0, 2019, 0]
+                "parameters": [0, 2215, 0]
             }, {
                 "code": 101,
                 "indent": 2,
@@ -405,7 +409,43 @@
             }, {
                 "code": 401,
                 "indent": 2,
-                "parameters": ["Look at this beautiful new Coochie catsuit we have available for purchase!"]
+                "parameters": ["I knew you were going to be interested in our brand new Coochie Harfort uniform!"]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["Why are you selling a Harfort uniform?"]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["With these reimagined uniforms you can have anyone roleplay as slutty Harfort students!"]
+            }, {
+                "code": 101,
+                "indent": 2,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 2,
+                "parameters": ["Take a look!"]
             }, {
                 "code": 302,
                 "indent": 2,
@@ -427,115 +467,13 @@
                 "indent": 2,
                 "parameters": [0, 132, 0, 0]
             }, {
-                "code": 111,
+                "code": 605,
                 "indent": 2,
-                "parameters": [8, 132]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Thank you for your purchase."]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Now let's get started!"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["Protagonist", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Started with...?"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["With the mandatory photoshoot for the Coochie catsuit of course!"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Go call that big lady in!"]
-            }, {
-                "code": 102,
-                "indent": 3,
-                "parameters": [
-                    ["Take over Flora's body and do the photoshoot as her.", "Call Flora and watch her do the photoshoot."], -1, -1, 2, 0
-                ]
-            }, {
-                "code": 402,
-                "indent": 3,
-                "parameters": [0, "Take over Flora's body and do the photoshoot as her."]
+                "parameters": [0, 133, 0, 0]
             }, {
                 "code": 121,
-                "indent": 4,
-                "parameters": [1774, 1774, 0]
-            }, {
-                "code": 0,
-                "indent": 4,
-                "parameters": []
-            }, {
-                "code": 402,
-                "indent": 3,
-                "parameters": [1, "Call Flora and watch her do the photoshoot."]
-            }, {
-                "code": 121,
-                "indent": 4,
-                "parameters": [1774, 1774, 1]
-            }, {
-                "code": 0,
-                "indent": 4,
-                "parameters": []
-            }, {
-                "code": 404,
-                "indent": 3,
-                "parameters": []
-            }, {
-                "code": 117,
-                "indent": 3,
-                "parameters": [533]
-            }, {
-                "code": 0,
-                "indent": 3,
-                "parameters": []
-            }, {
-                "code": 412,
                 "indent": 2,
-                "parameters": []
+                "parameters": [2216, 2216, 0]
             }, {
                 "code": 0,
                 "indent": 2,
@@ -547,91 +485,7 @@
             }, {
                 "code": 111,
                 "indent": 2,
-                "parameters": [0, 1993, 0]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["Protagonist", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Hello."]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Yeah, what'd you want?"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["Protagonist_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["You told me that we could do more photoshoots..."]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["You will need to bring a new outfit first!"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["Protagonist_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Where do I get a new outfit?"]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["We'll let you know as soon as we have a new outfit available."]
-            }, {
-                "code": 101,
-                "indent": 3,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 3,
-                "parameters": ["Do you want to browse our available collection instead?"]
+                "parameters": [0, 2020, 0]
             }, {
                 "code": 102,
                 "indent": 3,
@@ -659,6 +513,10 @@
                 "indent": 4,
                 "parameters": [0, 131, 0, 0]
             }, {
+                "code": 605,
+                "indent": 4,
+                "parameters": [0, 132, 0, 0]
+            }, {
                 "code": 0,
                 "indent": 4,
                 "parameters": []
@@ -685,7 +543,7 @@
             }, {
                 "code": 111,
                 "indent": 3,
-                "parameters": [0, 1991, 0]
+                "parameters": [0, 2019, 0]
             }, {
                 "code": 101,
                 "indent": 4,
@@ -709,19 +567,7 @@
             }, {
                 "code": 401,
                 "indent": 4,
-                "parameters": ["You again."]
-            }, {
-                "code": 101,
-                "indent": 4,
-                "parameters": ["Protagonist", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 4,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 4,
-                "parameters": ["I got a message that a new outfit is available."]
+                "parameters": ["There you are!"]
             }, {
                 "code": 101,
                 "indent": 4,
@@ -733,19 +579,7 @@
             }, {
                 "code": 401,
                 "indent": 4,
-                "parameters": ["Oh yes, we've got a new Coochie maid outfit available for purchase!"]
-            }, {
-                "code": 101,
-                "indent": 4,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 4,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 4,
-                "parameters": ["Go ahead and browse our collection!"]
+                "parameters": ["Look at this beautiful new Coochie catsuit we have available for purchase!"]
             }, {
                 "code": 302,
                 "indent": 4,
@@ -763,9 +597,13 @@
                 "indent": 4,
                 "parameters": [0, 131, 0, 0]
             }, {
+                "code": 605,
+                "indent": 4,
+                "parameters": [0, 132, 0, 0]
+            }, {
                 "code": 111,
                 "indent": 4,
-                "parameters": [8, 131]
+                "parameters": [8, 132]
             }, {
                 "code": 101,
                 "indent": 5,
@@ -789,39 +627,11 @@
             }, {
                 "code": 401,
                 "indent": 5,
-                "parameters": ["That outfit comes with a one-time mandatory photoshoot."]
-            }, {
-                "code": 213,
-                "indent": 5,
-                "parameters": [-1, 2, true]
+                "parameters": ["Now let's get started!"]
             }, {
                 "code": 101,
                 "indent": 5,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["You will need to find someone to do the photoshoot with."]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["Unless you want to wear it and do the photoshoot yourself."]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["Protagonist_angry", 0, 0, 2]
+                "parameters": ["Protagonist", 0, 0, 2]
             }, {
                 "code": 401,
                 "indent": 5,
@@ -829,7 +639,7 @@
             }, {
                 "code": 401,
                 "indent": 5,
-                "parameters": ["N-No!"]
+                "parameters": ["Started with...?"]
             }, {
                 "code": 101,
                 "indent": 5,
@@ -841,19 +651,7 @@
             }, {
                 "code": 401,
                 "indent": 5,
-                "parameters": ["Where's the big lady?"]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["Protagonist_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["Flora?"]
+                "parameters": ["With the mandatory photoshoot for the Coochie catsuit of course!"]
             }, {
                 "code": 101,
                 "indent": 5,
@@ -865,43 +663,7 @@
             }, {
                 "code": 401,
                 "indent": 5,
-                "parameters": ["Yeah... Call her in!"]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["Protagonist_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["Umm..."]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["Do you want me to call her?"]
-            }, {
-                "code": 101,
-                "indent": 5,
-                "parameters": ["Protagonist_sad", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 5,
-                "parameters": ["N-No! I got it!"]
+                "parameters": ["Go call that big lady in!"]
             }, {
                 "code": 102,
                 "indent": 5,
@@ -939,7 +701,7 @@
             }, {
                 "code": 117,
                 "indent": 5,
-                "parameters": [532]
+                "parameters": [533]
             }, {
                 "code": 0,
                 "indent": 5,
@@ -959,7 +721,19 @@
             }, {
                 "code": 111,
                 "indent": 4,
-                "parameters": [0, 1776, 0]
+                "parameters": [0, 1993, 0]
+            }, {
+                "code": 101,
+                "indent": 5,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["Hello."]
             }, {
                 "code": 101,
                 "indent": 5,
@@ -1031,7 +805,7 @@
             }, {
                 "code": 401,
                 "indent": 5,
-                "parameters": ["Do you want to browse our lingeries in the mean time?"]
+                "parameters": ["Do you want to browse our available collection instead?"]
             }, {
                 "code": 102,
                 "indent": 5,
@@ -1054,6 +828,10 @@
                 "code": 605,
                 "indent": 6,
                 "parameters": [0, 130, 0, 0]
+            }, {
+                "code": 605,
+                "indent": 6,
+                "parameters": [0, 131, 0, 0]
             }, {
                 "code": 0,
                 "indent": 6,
@@ -1081,7 +859,19 @@
             }, {
                 "code": 111,
                 "indent": 5,
-                "parameters": [0, 1150, 0]
+                "parameters": [0, 1991, 0]
+            }, {
+                "code": 101,
+                "indent": 6,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["Hello."]
             }, {
                 "code": 101,
                 "indent": 6,
@@ -1093,7 +883,43 @@
             }, {
                 "code": 401,
                 "indent": 6,
-                "parameters": ["Yeah, what'd you want?"]
+                "parameters": ["You again."]
+            }, {
+                "code": 101,
+                "indent": 6,
+                "parameters": ["Protagonist", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["I got a message that a new outfit is available."]
+            }, {
+                "code": 101,
+                "indent": 6,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["Oh yes, we've got a new Coochie maid outfit available for purchase!"]
+            }, {
+                "code": 101,
+                "indent": 6,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 6,
+                "parameters": ["Go ahead and browse our collection!"]
             }, {
                 "code": 302,
                 "indent": 6,
@@ -1107,17 +933,89 @@
                 "indent": 6,
                 "parameters": [0, 130, 0, 0]
             }, {
-                "code": 0,
+                "code": 605,
                 "indent": 6,
-                "parameters": []
-            }, {
-                "code": 411,
-                "indent": 5,
-                "parameters": []
+                "parameters": [0, 131, 0, 0]
             }, {
                 "code": 111,
                 "indent": 6,
-                "parameters": [0, 1149, 0]
+                "parameters": [8, 131]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Thank you for your purchase."]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["That outfit comes with a one-time mandatory photoshoot."]
+            }, {
+                "code": 213,
+                "indent": 7,
+                "parameters": [-1, 2, true]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["You will need to find someone to do the photoshoot with."]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Unless you want to wear it and do the photoshoot yourself."]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["Protagonist_angry", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["N-No!"]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Where's the big lady?"]
             }, {
                 "code": 101,
                 "indent": 7,
@@ -1129,7 +1027,113 @@
             }, {
                 "code": 401,
                 "indent": 7,
-                "parameters": ["Hello..."]
+                "parameters": ["Flora?"]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Yeah... Call her in!"]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["Protagonist_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Umm..."]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Do you want me to call her?"]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["Protagonist_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["N-No! I got it!"]
+            }, {
+                "code": 102,
+                "indent": 7,
+                "parameters": [
+                    ["Take over Flora's body and do the photoshoot as her.", "Call Flora and watch her do the photoshoot."], -1, -1, 2, 0
+                ]
+            }, {
+                "code": 402,
+                "indent": 7,
+                "parameters": [0, "Take over Flora's body and do the photoshoot as her."]
+            }, {
+                "code": 121,
+                "indent": 8,
+                "parameters": [1774, 1774, 0]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 402,
+                "indent": 7,
+                "parameters": [1, "Call Flora and watch her do the photoshoot."]
+            }, {
+                "code": 121,
+                "indent": 8,
+                "parameters": [1774, 1774, 1]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 117,
+                "indent": 7,
+                "parameters": [532]
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 6,
+                "parameters": [0, 1776, 0]
             }, {
                 "code": 101,
                 "indent": 7,
@@ -1153,7 +1157,7 @@
             }, {
                 "code": 401,
                 "indent": 7,
-                "parameters": ["I came to pay for the lingerie and for the mess we left behind..."]
+                "parameters": ["You told me that we could do more photoshoots..."]
             }, {
                 "code": 101,
                 "indent": 7,
@@ -1165,95 +1169,7 @@
             }, {
                 "code": 401,
                 "indent": 7,
-                "parameters": ["Oh\\..\\..\\.. About that\\..\\..\\.. Don't worry about't."]
-            }, {
-                "code": 213,
-                "indent": 7,
-                "parameters": [-1, 2, true]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["Protagonist_shock", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["Wait, what?!"]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["She can keep't..."]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["She didn't look like a lady who'd steal..."]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["Protagonist_shock", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["A-Are you sure about this?"]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["Yeah."]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["Protagonist_shock", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\n<\\N[1]>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["What's the catch?"]
-            }, {
-                "code": 101,
-                "indent": 7,
-                "parameters": ["face_sil_female_2", 0, 0, 2]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["\\FPR\\nr<Cashier>"]
-            }, {
-                "code": 401,
-                "indent": 7,
-                "parameters": ["Yes."]
+                "parameters": ["You will need to bring a new outfit first!"]
             }, {
                 "code": 101,
                 "indent": 7,
@@ -1265,7 +1181,7 @@
             }, {
                 "code": 401,
                 "indent": 7,
-                "parameters": ["Yes, what?"]
+                "parameters": ["Where do I get a new outfit?"]
             }, {
                 "code": 101,
                 "indent": 7,
@@ -1277,98 +1193,356 @@
             }, {
                 "code": 401,
                 "indent": 7,
+                "parameters": ["We'll let you know as soon as we have a new outfit available."]
+            }, {
+                "code": 101,
+                "indent": 7,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 7,
+                "parameters": ["Do you want to browse our lingeries in the mean time?"]
+            }, {
+                "code": 102,
+                "indent": 7,
+                "parameters": [
+                    ["Browse", "Leave"], -1, -1, 2, 0
+                ]
+            }, {
+                "code": 402,
+                "indent": 7,
+                "parameters": [0, "Browse"]
+            }, {
+                "code": 302,
+                "indent": 8,
+                "parameters": [0, 128, 0, 0, true]
+            }, {
+                "code": 605,
+                "indent": 8,
+                "parameters": [0, 129, 0, 0]
+            }, {
+                "code": 605,
+                "indent": 8,
+                "parameters": [0, 130, 0, 0]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 402,
+                "indent": 7,
+                "parameters": [1, "Leave"]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 404,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 6,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 7,
+                "parameters": [0, 1150, 0]
+            }, {
+                "code": 101,
+                "indent": 8,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 8,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 8,
+                "parameters": ["Yeah, what'd you want?"]
+            }, {
+                "code": 302,
+                "indent": 8,
+                "parameters": [0, 128, 0, 0, true]
+            }, {
+                "code": 605,
+                "indent": 8,
+                "parameters": [0, 129, 0, 0]
+            }, {
+                "code": 605,
+                "indent": 8,
+                "parameters": [0, 130, 0, 0]
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 111,
+                "indent": 8,
+                "parameters": [0, 1149, 0]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Hello..."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Yeah, what'd you want?"]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_sad", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["I came to pay for the lingerie and for the mess we left behind..."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Oh\\..\\..\\.. About that\\..\\..\\.. Don't worry about't."]
+            }, {
+                "code": 213,
+                "indent": 9,
+                "parameters": [-1, 2, true]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Wait, what?!"]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["She can keep't..."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["She didn't look like a lady who'd steal..."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["A-Are you sure about this?"]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Yeah."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["What's the catch?"]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
                 "parameters": ["Yes."]
             }, {
                 "code": 101,
-                "indent": 7,
-                "parameters": ["Protagonist_shock", 0, 0, 2]
+                "indent": 9,
+                "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
+                "parameters": ["Yes, what?"]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["face_sil_female_2", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\FPR\\nr<Cashier>"]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["Yes."]
+            }, {
+                "code": 101,
+                "indent": 9,
+                "parameters": ["Protagonist_shock", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 9,
+                "parameters": ["\\n<\\N[1]>"]
+            }, {
+                "code": 401,
+                "indent": 9,
                 "parameters": ["Hmm... Can you give me another one for free?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Don't push your luck!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_shock", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["O-Okay, but are you really\\..\\..\\.. truly\\..\\..\\.. absolutely sure about this?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I said yeah!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_shock", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["But when it happened before, you were still mad at me..."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I ain't gonna be mad!"]
             }, {
                 "code": 213,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [-1, 3, true]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_smile", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Thank you so much!"]
             }, {
                 "code": 205,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [-1, {
                     "list": [{
                         "code": 3,
@@ -1397,77 +1571,77 @@
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 3,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 3,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 3,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 3,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 1,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 1,
                     "indent": null
                 }]
             }, {
                 "code": 213,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [0, 1, true]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Wait!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Before you leave...!"]
             }, {
                 "code": 205,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [-1, {
                     "list": [{
                         "code": 4,
@@ -1499,203 +1673,219 @@
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 4,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 4,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 2,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 2,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 2,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 2,
                     "indent": null
                 }]
             }, {
                 "code": 505,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "code": 19,
                     "indent": null
                 }]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_smile", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["What is it?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Can you give me t'phone number of that big lady you were with?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Uhh\\..\\..\\.. Why?"]
             }, {
                 "code": 213,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [0, 4, true]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Business has been booming since you two came!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["People have been constantly asking about her and the lingerie she was wearing."]
             }, {
                 "code": 111,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [1, 455, 0, 1, 0]
             }, {
                 "code": 101,
-                "indent": 8,
+                "indent": 10,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 8,
+                "indent": 10,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 8,
+                "indent": 10,
                 "parameters": ["The transparent lingerie she wore has been selling like cupcakes!"]
             }, {
                 "code": 0,
-                "indent": 8,
+                "indent": 10,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 7,
+                "indent": 9,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 8,
+                "indent": 10,
                 "parameters": [1, 455, 0, 2, 0]
             }, {
                 "code": 101,
-                "indent": 9,
+                "indent": 11,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 9,
+                "indent": 11,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 9,
+                "indent": 11,
                 "parameters": ["The pink lingerie she wore has been selling like cupcakes!"]
             }, {
                 "code": 0,
-                "indent": 9,
+                "indent": 11,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 8,
+                "indent": 10,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 9,
+                "indent": 11,
                 "parameters": [1, 455, 0, 3, 0]
             }, {
                 "code": 101,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["The semi-nude lingerie she wore has been selling like cupcakes!"]
             }, {
                 "code": 0,
-                "indent": 10,
+                "indent": 12,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 9,
+                "indent": 11,
                 "parameters": []
             }, {
                 "code": 101,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 10,
+                "indent": 12,
                 "parameters": ["The lingerie she wore has been selling like cupcakes!"]
             }, {
                 "code": 0,
+                "indent": 12,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 11,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 11,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 10,
+                "parameters": []
+            }, {
+                "code": 0,
                 "indent": 10,
                 "parameters": []
             }, {
@@ -1703,220 +1893,204 @@
                 "indent": 9,
                 "parameters": []
             }, {
-                "code": 0,
-                "indent": 9,
-                "parameters": []
-            }, {
-                "code": 412,
-                "indent": 8,
-                "parameters": []
-            }, {
-                "code": 0,
-                "indent": 8,
-                "parameters": []
-            }, {
-                "code": 412,
-                "indent": 7,
-                "parameters": []
-            }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["What?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I guess people saw her running around on the street wearing it."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["After you two left this place, leaving behind all that mess in the changing room."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Wearing our clothes in public is indecent exposure, you know?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I didn't think anyone saw us..."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
-                "parameters": ["Why do you even want her phone number?"]
+                "indent": 9,
+                "parameters": ["Why do you even want Flora's phone number?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I have a job for her."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
-                "parameters": ["I... I don't think she is interested!"]
+                "indent": 9,
+                "parameters": ["I... I don't think Flora is interested!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Well... It's her choice, ain't it?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Besides... You just gave me her name..."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I'll ask around and find her myself."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["How many Flora's could be on the island?"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_B_WS1", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\WS[1]\\n<???>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\C[23]You idiot!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["C-Crap!"]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Just give me her phone number or I'll find her myself..."]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Protagonist_sad", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\n<\\N[1]>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["I'll have to talk to her first..."]
             }, {
                 "code": 356,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Quest Add 71"]
             }, {
                 "code": 250,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [{
                     "name": "Sound1",
                     "volume": 100,
@@ -1925,48 +2099,64 @@
                 }]
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["", 0, 1, 1]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\WS[2] \\I[87] New Quest: \\c[14]SexyWear Model\\c[0]"]
             }, {
                 "code": 121,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [1150, 1150, 0]
             }, {
                 "code": 0,
-                "indent": 7,
+                "indent": 9,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 6,
+                "indent": 8,
                 "parameters": []
             }, {
                 "code": 101,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["face_sil_female_2", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["\\FPR\\nr<Cashier>"]
             }, {
                 "code": 401,
-                "indent": 7,
+                "indent": 9,
                 "parameters": ["Yeah, what'd you want?"]
             }, {
                 "code": 302,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [0, 128, 0, 0, true]
             }, {
                 "code": 605,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [0, 129, 0, 0]
             }, {
                 "code": 605,
-                "indent": 7,
+                "indent": 9,
                 "parameters": [0, 130, 0, 0]
+            }, {
+                "code": 0,
+                "indent": 9,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 0,
+                "indent": 8,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 7,
+                "parameters": []
             }, {
                 "code": 0,
                 "indent": 7,

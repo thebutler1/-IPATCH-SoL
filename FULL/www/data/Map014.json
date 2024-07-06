@@ -11158,7 +11158,7 @@
             }, {
                 "code": 401,
                 "indent": 0,
-                "parameters": ["I'm not going anywhere, mom."]
+                "parameters": ["I'm not going anywhere, Mom."]
             }, {
                 "code": 356,
                 "indent": 0,
@@ -15622,27 +15622,167 @@
                 "indent": 3,
                 "parameters": ["Don't forget to wear the dress!"]
             }, {
-                "code": 356,
-                "indent": 3,
-                "parameters": ["Live2D expression flora aroused_sad"]
-            }, {
                 "code": 111,
                 "indent": 3,
                 "parameters": [1, 162, 0, 6, 1]
             }, {
-                "code": 101,
+                "code": 111,
                 "indent": 4,
+                "parameters": [1, 617, 0, 250, 1]
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D expression flora aroused"]
+            }, {
+                "code": 101,
+                "indent": 5,
                 "parameters": ["", 0, 0, 2]
             }, {
                 "code": 401,
-                "indent": 4,
+                "indent": 5,
                 "parameters": ["\\nr<Flora>"]
             }, {
                 "code": 401,
+                "indent": 5,
+                "parameters": ["Gladly, Dear!"]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 411,
                 "indent": 4,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D expression flora aroused_sad"]
+            }, {
+                "code": 101,
+                "indent": 5,
+                "parameters": ["", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["\\nr<Flora>"]
+            }, {
+                "code": 401,
+                "indent": 5,
                 "parameters": ["O-Okay, Dear..."]
             }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 4,
+                "parameters": []
+            }, {
                 "code": 221,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 4,
+                "parameters": ["Live2D hide flora"]
+            }, {
+                "code": 356,
+                "indent": 4,
+                "parameters": ["Live2D hide main"]
+            }, {
+                "code": 230,
+                "indent": 4,
+                "parameters": [60]
+            }, {
+                "code": 111,
+                "indent": 4,
+                "parameters": [0, 2071, 0]
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D loopmotion flora idle_slutty"]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D loopmotion flora idle_slutty_bag"]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 230,
+                "indent": 4,
+                "parameters": [60]
+            }, {
+                "code": 356,
+                "indent": 4,
+                "parameters": ["Live2D show flora"]
+            }, {
+                "code": 356,
+                "indent": 4,
+                "parameters": ["Live2D show main"]
+            }, {
+                "code": 111,
+                "indent": 4,
+                "parameters": [1, 617, 0, 250, 1]
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D expression flora aroused"]
+            }, {
+                "code": 101,
+                "indent": 5,
+                "parameters": ["", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["\\nr<Flora>"]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["I'm ready when you are!"]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 411,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 356,
+                "indent": 5,
+                "parameters": ["Live2D expression flora aroused_sad"]
+            }, {
+                "code": 101,
+                "indent": 5,
+                "parameters": ["", 0, 0, 2]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["\\nr<Flora>"]
+            }, {
+                "code": 401,
+                "indent": 5,
+                "parameters": ["I'm ready, Dear..."]
+            }, {
+                "code": 0,
+                "indent": 5,
+                "parameters": []
+            }, {
+                "code": 412,
                 "indent": 4,
                 "parameters": []
             }, {
@@ -18084,19 +18224,31 @@
             }, {
                 "code": 111,
                 "indent": 0,
-                "parameters": [1, 33, 0, 22, 1]
+                "parameters": [0, 8, 1]
             }, {
                 "code": 111,
                 "indent": 1,
-                "parameters": [12, "$gameTime.inBetweenHour(6,12)"]
+                "parameters": [1, 33, 0, 22, 1]
             }, {
                 "code": 111,
                 "indent": 2,
+                "parameters": [12, "$gameTime.inBetweenHour(6,12)"]
+            }, {
+                "code": 111,
+                "indent": 3,
                 "parameters": [0, 1285, 0]
             }, {
                 "code": 356,
-                "indent": 3,
+                "indent": 4,
                 "parameters": ["activate_page"]
+            }, {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 3,
+                "parameters": []
             }, {
                 "code": 0,
                 "indent": 3,
@@ -19688,47 +19840,59 @@
             }, {
                 "code": 111,
                 "indent": 0,
+                "parameters": [0, 8, 1]
+            }, {
+                "code": 111,
+                "indent": 1,
                 "parameters": [0, 1501, 0]
             }, {
                 "code": 111,
-                "indent": 1,
+                "indent": 2,
                 "parameters": [1, 31, 0, 0, 0]
             }, {
                 "code": 0,
-                "indent": 2,
+                "indent": 3,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 1,
+                "indent": 2,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 2,
+                "indent": 3,
                 "parameters": [1, 31, 0, 6, 0]
             }, {
                 "code": 0,
-                "indent": 3,
+                "indent": 4,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 2,
+                "indent": 3,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 3,
+                "indent": 4,
                 "parameters": [0, 236, 0]
             }, {
                 "code": 111,
-                "indent": 4,
+                "indent": 5,
                 "parameters": [12, "$gameTime.inBetweenHour(6,17)"]
             }, {
                 "code": 111,
-                "indent": 5,
+                "indent": 6,
                 "parameters": [1, 69, 1, 33, 4]
             }, {
                 "code": 356,
-                "indent": 6,
+                "indent": 7,
                 "parameters": ["activate_page"]
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 6,
+                "parameters": []
             }, {
                 "code": 0,
                 "indent": 6,
@@ -20536,55 +20700,67 @@
             }, {
                 "code": 111,
                 "indent": 0,
+                "parameters": [0, 8, 1]
+            }, {
+                "code": 111,
+                "indent": 1,
                 "parameters": [0, 1776, 0]
             }, {
                 "code": 0,
-                "indent": 1,
+                "indent": 2,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 0,
+                "indent": 1,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 1,
+                "indent": 2,
                 "parameters": [0, 1150, 0]
             }, {
                 "code": 111,
-                "indent": 2,
+                "indent": 3,
                 "parameters": [1, 31, 0, 0, 0]
             }, {
                 "code": 0,
-                "indent": 3,
+                "indent": 4,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 2,
+                "indent": 3,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 3,
+                "indent": 4,
                 "parameters": [1, 31, 0, 6, 0]
             }, {
                 "code": 0,
-                "indent": 4,
+                "indent": 5,
                 "parameters": []
             }, {
                 "code": 411,
-                "indent": 3,
+                "indent": 4,
                 "parameters": []
             }, {
                 "code": 111,
-                "indent": 4,
+                "indent": 5,
                 "parameters": [0, 1488, 0]
             }, {
                 "code": 111,
-                "indent": 5,
+                "indent": 6,
                 "parameters": [12, "$gameTime.inBetweenHour(6,17)"]
             }, {
                 "code": 356,
-                "indent": 6,
+                "indent": 7,
                 "parameters": ["activate_page"]
+            }, {
+                "code": 0,
+                "indent": 7,
+                "parameters": []
+            }, {
+                "code": 412,
+                "indent": 6,
+                "parameters": []
             }, {
                 "code": 0,
                 "indent": 6,
