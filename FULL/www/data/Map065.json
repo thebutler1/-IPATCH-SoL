@@ -3453,11 +3453,11 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["Live2D pos natalie 50 -350"]
+                "parameters": ["Live2D pos natalie 30 -125"]
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["Live2D scale natalie 0.7"]
+                "parameters": ["Live2D scale natalie 1.17"]
             }, {
                 "code": 356,
                 "indent": 0,
@@ -57714,7 +57714,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 0"]
+                "parameters": ["MobileMessage add Mom 10"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -68097,7 +68097,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 7"]
+                "parameters": ["MobileMessage add Mom 17"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -68447,7 +68447,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 8"]
+                "parameters": ["MobileMessage add Mom 18"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -68622,7 +68622,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 2"]
+                "parameters": ["MobileMessage add Mom 12"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -68797,7 +68797,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 9"]
+                "parameters": ["MobileMessage add Mom 19"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -68972,7 +68972,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 3"]
+                "parameters": ["MobileMessage add Mom 13"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -69147,7 +69147,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 0"]
+                "parameters": ["MobileMessage add Mom 20"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -69322,7 +69322,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 4"]
+                "parameters": ["MobileMessage add Mom 14"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -69497,7 +69497,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 1"]
+                "parameters": ["MobileMessage add Mom 21"]
             }, {
                 "code": 250,
                 "indent": 0,
@@ -69672,7 +69672,7 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["MobileMessage add Mom 5"]
+                "parameters": ["MobileMessage add Mom 15"]
             }, {
                 "code": 250,
                 "indent": 0,
