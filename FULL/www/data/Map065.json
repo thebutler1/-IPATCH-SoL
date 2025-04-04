@@ -3453,11 +3453,11 @@
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["Live2D pos natalie 30 -125"]
+                "parameters": ["Live2D pos natalie 50 -350"]
             }, {
                 "code": 356,
                 "indent": 0,
-                "parameters": ["Live2D scale natalie 1.17"]
+                "parameters": ["Live2D scale natalie 0.7"]
             }, {
                 "code": 356,
                 "indent": 0,
