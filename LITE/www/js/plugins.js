@@ -158,7 +158,7 @@ var $plugins = [{
         "status": true,
         "description": "Ver.2015-11-06-0008. Displays a custom text on title screen.\r\n<Ellye Title Text>",
         "parameters": {
-            "Text": "Version 0.9.0b (Alpha)",
+            "Text": "Version 0.9.2b (Alpha) - IPATCH",
             "h_align": "2",
             "v_align": "2",
             "X Offset": "10",
@@ -520,25 +520,6 @@ var $plugins = [{
         }
     },
     {
-        "name": "MOG_TitleParticles",
-        "status": true,
-        "description": "(v1.1) Adiciona partículas na tela de título\r\nalem da opção de ativar o circulo mágico.",
-        "parameters": {
-            "ParticleNumber": "6",
-            "X axis Speed": "1",
-            "Y axis Speed": "-2",
-            "A Speed": "0.02",
-            "Blend Mode": "1",
-            "OX": "1.0",
-            "OY": "1.0",
-            "Magic Circle Visible": "false",
-            "Magic Circle OX": "0",
-            "Magic Circle OY": "0",
-            "Magic Circle A Speed": "0.01",
-            "Magic Circle Blend Type": "1"
-        }
-    },
-    {
         "name": "PHLiM2_ShutDownAddition",
         "status": true,
         "description": "Adds the Shutdown command into the Title screen and Game End screen, like previous RPG Makers.",
@@ -624,10 +605,10 @@ var $plugins = [{
             "Live2D 1 Mirror": "[true]",
             "Live2D 1 Models": "[['main', 'intro', 0]]",
             "=====Live2D 2=====": "",
-            "Live2D 2 Position": "[[200, -400], [200, -400], [200, -300], [200, -300], [200, -370], [200, -420], [200, -520], [200, -280], [200, -400], [200, -400]]",
-            "Live2D 2 Scale": "[0.7, 0.8, 0.8, 0.8, 0.8, 0.8, 0.9, 0.8, 0.8, 0.8]",
+            "Live2D 2 Position": "[[150, -125], [200, -400], [200, -300], [200, -300], [200, -370], [200, -420], [200, -520], [200, -280], [200, -400], [200, -400]]",
+            "Live2D 2 Scale": "[1.12, 0.8, 0.8, 0.8, 0.8, 0.8, 0.9, 0.8, 0.8, 0.8]",
             "Live2D 2 Mirror": "[false, false, false, false, false, false, false, false, false, false]",
-            "Live2D 2 Models": "[['natalie', 'intro', 0], ['nicole', 'intro', 0], ['aiyana', 'intro', 0], ['flora', 'intro', 0], ['violet', 'intro', 0], ['claire', 'intro', 0], ['zoe', 'intro', 0], ['scarlett', 'intro', 0], ['sofia', 'intro', 0], ['dunia', 'intro', 0]]",
+            "Live2D 2 Models": "[['natalie', 'intro', 1], ['nicole', 'intro', 0], ['aiyana', 'intro', 0], ['flora', 'intro', 0], ['violet', 'intro', 0], ['claire', 'intro', 0], ['zoe', 'intro', 0], ['scarlett', 'intro', 0], ['sofia', 'intro', 0], ['dunia', 'intro', 0]]",
             "=====Commands=====": "",
             "Command Mouse Cursor": "select.png",
             "Commands Position": "[[170, 360], [180, 430], [190, 500], [200, 570]]",
@@ -1695,7 +1676,7 @@ var $plugins = [{
             "Default Motion Index": "-1",
             "Models Talk Motion": "[\"[\\\"violet\\\", \\\"talking1\\\", -1]\",\"[\\\"mother\\\", \\\"talking1\\\", 2]\",\"[\\\"boy\\\", \\\"talking1\\\", 2]\"]",
             "Disable Filter": "\\C[",
-            "Model Keys": "[\"[\\\"Mother\\\", \\\"testing3\\\", \\\"testing4\\\", \\\"flora\\\"]\",\"[\\\"Boy\\\", \\\"testing5\\\", \\\"testing6\\\", \\\"main\\\"]\",\"[\\\"Sister\\\", \\\"testing7\\\", \\\"testing8\\\", \\\"natalie\\\"]\",\"[\\\"???\\\", \\\"sofia_scene_st\\\", \\\"natalie_scene_st\\\", \\\"main\\\"]\",\"[\\\"Stranger\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Guard\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Nurse\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Teacher\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Sofia\\\", \\\"testing9\\\", \\\"sofia_scene_st\\\", \\\"sofia_scene_bj\\\", \\\"sofia_date_b\\\", \\\"sofia_date_f\\\", \\\"sofiaviolet_rps\\\", \\\"sofia_bat\\\"]\",\"[\\\"Violet\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"violet_hypno_2\\\", \\\"sofiaviolet_rps\\\", \\\"violet_date_bull\\\", \\\"violet_date_f\\\", \\\"violet_date_b\\\"]\",\"[\\\"Natori\\\", \\\"testing11\\\", \\\"testing12\\\", \\\"natori\\\"]\",\"[\\\"Farmer\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Cook\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"\\\\\\\\N[1]\\\", \\\"sofia_scene_st\\\", \\\"natalie_scene_st\\\", \\\"main\\\", \\\"natalie2\\\", \\\"scarlett_office\\\", \\\"dunia_3some\\\"]\",\"[\\\"Natalie\\\", \\\"natalie_scene_st\\\", \\\"nicole_imp_1\\\", \\\"natflora_bj\\\", \\\"nat_date\\\"]\",\"[\\\"Flora\\\", \\\"testing9\\\", \\\"flora_bath_hj\\\", \\\"natflora_bj\\\", \\\"flora_date_f\\\", \\\"flora_date_b\\\", \\\"flora_date_sex_f\\\", \\\"flora_date_sex_f2\\\", \\\"floray\\\"]\",\"[\\\"Nicole\\\", \\\"nicole_imp_1\\\", \\\"nicole_zombie\\\"]\",\"[\\\"Aiyana\\\", \\\"flora_date_f\\\", \\\"flora_date_b\\\", \\\"flora_date_sex_a\\\", \\\"aiyana_d_tj\\\", \\\"aiyana_d_st\\\"]\",\"[\\\"Claire\\\", \\\"claire_sexywear_1\\\", \\\"claire_date\\\"]\",\"[\\\"Gip\\\", \\\"gip\\\", \\\"gipy\\\"]\",\"[\\\"????\\\", \\\"horn\\\"]\"]"
+            "Model Keys": "[\"[\\\"Mother\\\", \\\"testing3\\\", \\\"testing4\\\", \\\"flora\\\"]\",\"[\\\"Boy\\\", \\\"testing5\\\", \\\"testing6\\\", \\\"main\\\"]\",\"[\\\"Sister\\\", \\\"testing7\\\", \\\"testing8\\\", \\\"natalie\\\"]\",\"[\\\"???\\\", \\\"sofia_scene_st\\\", \\\"natalie_scene_st\\\", \\\"main\\\", \\\"nanaya\\\"]\",\"[\\\"Stranger\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Guard\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Nurse\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Teacher\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Sofia\\\", \\\"testing9\\\", \\\"sofia_scene_st\\\", \\\"sofia_scene_bj\\\", \\\"sofia_date_b\\\", \\\"sofia_date_f\\\", \\\"sofiaviolet_rps\\\", \\\"sofia_bat\\\"]\",\"[\\\"Violet\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"violet_hypno_2\\\", \\\"sofiaviolet_rps\\\", \\\"violet_date_bull\\\", \\\"violet_date_f\\\", \\\"violet_date_b\\\"]\",\"[\\\"Natori\\\", \\\"testing11\\\", \\\"testing12\\\", \\\"natori\\\"]\",\"[\\\"Farmer\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"Cook\\\", \\\"testing9\\\", \\\"testing10\\\", \\\"scarlett\\\"]\",\"[\\\"\\\\\\\\N[1]\\\", \\\"sofia_scene_st\\\", \\\"natalie_scene_st\\\", \\\"main\\\", \\\"natalie2\\\", \\\"scarlett_office\\\", \\\"dunia_3some\\\"]\",\"[\\\"Natalie\\\", \\\"natalie_scene_st\\\", \\\"nicole_imp_1\\\", \\\"natflora_bj\\\", \\\"nat_date\\\"]\",\"[\\\"Flora\\\", \\\"testing9\\\", \\\"flora_bath_hj\\\", \\\"natflora_bj\\\", \\\"flora_date_f\\\", \\\"flora_date_b\\\", \\\"flora_date_sex_f\\\", \\\"flora_date_sex_f2\\\", \\\"floray\\\"]\",\"[\\\"Nicole\\\", \\\"nicole_imp_1\\\", \\\"nicole_zombie\\\"]\",\"[\\\"Aiyana\\\", \\\"flora_date_f\\\", \\\"flora_date_b\\\", \\\"flora_date_sex_a\\\", \\\"aiyana_d_tj\\\", \\\"aiyana_d_st\\\"]\",\"[\\\"Claire\\\", \\\"claire_sexywear_1\\\", \\\"claire_date\\\"]\",\"[\\\"Gip\\\", \\\"gip\\\", \\\"gipy\\\"]\",\"[\\\"????\\\", \\\"horn\\\"]\"]"
         }
     },
     {
@@ -2070,6 +2051,25 @@ var $plugins = [{
         "status": true,
         "description": "Dhoom ABSCollision v1.0",
         "parameters": {}
+    },
+    {
+        "name": "MOG_TitleParticles",
+        "status": true,
+        "description": "(v1.1) Adiciona partículas na tela de título\r\nalem da opção de ativar o circulo mágico.",
+        "parameters": {
+            "ParticleNumber": "6",
+            "X axis Speed": "1",
+            "Y axis Speed": "-2",
+            "A Speed": "0.02",
+            "Blend Mode": "1",
+            "OX": "1.0",
+            "OY": "1.0",
+            "Magic Circle Visible": "false",
+            "Magic Circle OX": "0",
+            "Magic Circle OY": "0",
+            "Magic Circle A Speed": "0.01",
+            "Magic Circle Blend Type": "1"
+        }
     },
     {
         "name": "DhoomBoxing",
