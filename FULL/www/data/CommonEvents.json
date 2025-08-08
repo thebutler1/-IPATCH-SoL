@@ -118989,11 +118989,11 @@
         }, {
             "code": 356,
             "indent": 0,
-            "parameters": ["Live2D pos natalie 50 350"]
+            "parameters": ["Live2D pos natalie 50 -360"]
         }, {
             "code": 356,
             "indent": 0,
-            "parameters": ["Live2D scale natalie 0.7"]
+            "parameters": ["Live2D scale natalie 0.74"]
         }, {
             "code": 356,
             "indent": 0,
@@ -119037,7 +119037,7 @@
         }, {
             "code": 356,
             "indent": 0,
-            "parameters": ["Live2D slide natalie 30 -295 90"]
+            "parameters": ["Live2D slide natalie 50 -530 90"]
         }, {
             "code": 101,
             "indent": 0,
@@ -119049,7 +119049,7 @@
         }, {
             "code": 356,
             "indent": 0,
-            "parameters": ["Live2D slide natalie 30 -125 60"]
+            "parameters": ["Live2D slide natalie 50 -360 60"]
         }, {
             "code": 101,
             "indent": 0,
