@@ -21017,7 +21017,730 @@
             "x": 8,
             "y": 15
         },
-        null,
-        null
+        {
+            "id": 42,
+            "name": "EV042",
+            "note": "",
+            "pages": [{
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": false,
+                    "switch1Id": 2381,
+                    "switch1Valid": true,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["fix anonymous 4 dunia room appearing again save file fix"]
+                }, {
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["THIS EVENT CAN BE REMOVED FOR LATER BUILDS"]
+                }, {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [2391, 2391, 1]
+                }, {
+                    "code": 123,
+                    "indent": 0,
+                    "parameters": ["A", 0]
+                }, {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 3,
+                "walkAnime": true
+            }, {
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": true,
+                    "switch1Id": 1,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 0,
+                "walkAnime": true
+            }],
+            "x": 21,
+            "y": 0
+        },
+        {
+            "id": 43,
+            "name": "EV043",
+            "note": "",
+            "pages": [{
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": false,
+                    "switch1Id": 2517,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["<page condition>"]
+                }, {
+                    "code": 111,
+                    "indent": 0,
+                    "parameters": [0, 2517, 0]
+                }, {
+                    "code": 111,
+                    "indent": 1,
+                    "parameters": [0, 8, 1]
+                }, {
+                    "code": 356,
+                    "indent": 2,
+                    "parameters": ["activate_page"]
+                }, {
+                    "code": 0,
+                    "indent": 2,
+                    "parameters": []
+                }, {
+                    "code": 412,
+                    "indent": 1,
+                    "parameters": []
+                }, {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                }, {
+                    "code": 412,
+                    "indent": 0,
+                    "parameters": []
+                }, {
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["</page condition>"]
+                }, {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [-1, {
+                        "list": [{
+                            "code": 16,
+                            "indent": null
+                        }, {
+                            "code": 0
+                        }],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": true
+                    }]
+                }, {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [{
+                        "code": 16,
+                        "indent": null
+                    }]
+                }, {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [-1, 2, true]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Hey, you!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Hey!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]I'm talking to you!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Say something!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Who are you talking to?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]To you!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Mwahaha! I thought you started monologuing to the void!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]What's up?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1_angry", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]What's with this money?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Huh?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]I'm counting at least a grand more than usual..."]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Not bad, huh?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Are you... Are you trying to help without telling me?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Uhhh... Maybe."]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]So where did you get this much money?"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Oh don't you worry about it!"]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<\\N[1]>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Hmm... As long as you're not doing anything illegal..."]
+                }, {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": ["Protagonist_B_WS1", 0, 0, 2]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\WS[1]\\n<???>"]
+                }, {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": ["\\C[23]Cross our heart!"]
+                }, {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [2518, 2518, 0]
+                }, {
+                    "code": 123,
+                    "indent": 0,
+                    "parameters": ["A", 0]
+                }, {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 3,
+                "walkAnime": true
+            }, {
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": true,
+                    "switch1Id": 1,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 0,
+                "walkAnime": true
+            }],
+            "x": 19,
+            "y": 15
+        },
+        {
+            "id": 44,
+            "name": "EV044",
+            "note": "",
+            "pages": [{
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": false,
+                    "switch1Id": 2461,
+                    "switch1Valid": true,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["fix aiyana stuck lust toys door scene"]
+                }, {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [2491, 2491, 0]
+                }, {
+                    "code": 123,
+                    "indent": 0,
+                    "parameters": ["A", 0]
+                }, {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 3,
+                "walkAnime": true
+            }, {
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": true,
+                    "switch1Id": 1,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 0,
+                "walkAnime": true
+            }],
+            "x": 20,
+            "y": 0
+        },
+        {
+            "id": 45,
+            "name": "EV045",
+            "note": "",
+            "pages": [{
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": false,
+                    "switch1Id": 2462,
+                    "switch1Valid": true,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 108,
+                    "indent": 0,
+                    "parameters": ["fix sofia stuck lust toys door scene"]
+                }, {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [2492, 2492, 0]
+                }, {
+                    "code": 123,
+                    "indent": 0,
+                    "parameters": ["A", 0]
+                }, {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 3,
+                "walkAnime": true
+            }, {
+                "conditions": {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": true,
+                    "switch1Id": 1,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image": {
+                    "characterIndex": 0,
+                    "characterName": "",
+                    "direction": 2,
+                    "pattern": 0,
+                    "tileId": 0
+                },
+                "list": [{
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }],
+                "moveFrequency": 3,
+                "moveRoute": {
+                    "list": [{
+                        "code": 0,
+                        "parameters": []
+                    }],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 0,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 0,
+                "walkAnime": true
+            }],
+            "x": 19,
+            "y": 0
+        }
     ]
 }

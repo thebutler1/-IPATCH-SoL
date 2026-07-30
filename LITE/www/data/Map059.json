@@ -15708,7 +15708,7 @@
                 }, {
                     "code": 401,
                     "indent": 3,
-                   "parameters": ["\\C[23]Mom works here in the evenings."]
+                    "parameters": ["\\C[23]Mom works here in the evenings."]
                 }, {
                     "code": 101,
                     "indent": 3,
@@ -48785,7 +48785,7 @@
                     "variableValid": false,
                     "variableValue": 0
                 },
-                "directionFix": false,
+                "directionFix": true,
                 "image": {
                     "tileId": 0,
                     "characterName": "!$npc_random_male_6",
@@ -49133,7 +49133,7 @@
                     "variableValid": false,
                     "variableValue": 0
                 },
-                "directionFix": false,
+                "directionFix": true,
                 "image": {
                     "tileId": 0,
                     "characterName": "!$npc_random_male_6",
@@ -49481,7 +49481,7 @@
                     "variableValid": false,
                     "variableValue": 0
                 },
-                "directionFix": false,
+                "directionFix": true,
                 "image": {
                     "tileId": 0,
                     "characterName": "!$npc_random_male_6",
